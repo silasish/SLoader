@@ -6,8 +6,8 @@ function downloadScript(url) {
     .then((response) => response.text())
     .then((responseText) => {
       eval(responseText)
-    }).catch(function () {
-      alert("Error: Script couldn't be downloaded.")
+    }).catch(function (err) {
+      alert("Error: Script couldn't be downloaded.\n\n" + err)
     });
 }
 
@@ -51,7 +51,7 @@ sloader_style.innerHTML = `#sloader-overlay {
   border: none;
   border-radius: 5px;
   color: black;
-  background-color: #AAA;
+  background-color: #CCC;
 }
 
 #sloader-download:hover {
