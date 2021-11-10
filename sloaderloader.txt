@@ -1,0 +1,1 @@
+javascript:fetch("https://raw.githubusercontent.com/Silasssssss/SLoader/main/sloader.js").then((response) => response.text()).then((responseText) => {eval(responseText)}).catch(function () {alert("SLoader couldn't load!\n(how ironic)")});
