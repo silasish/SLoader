@@ -99,7 +99,7 @@ downloadElement.onclick = function () {
   mainUIElement.remove()
 }
 
-fetch("https://raw.githubusercontent.com/Silasssssss/SLoader/main/program_map.json")
+fetch("https://raw.githubusercontent.com/Silasssssss/SLoader/main/program_map.json", {cache: "no-store"})
   .then((response) => response.json())
   .then((responseJSON) => {
     responseJSON.programs.forEach(function (program) {
