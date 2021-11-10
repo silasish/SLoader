@@ -41,6 +41,8 @@ sloader_style.innerHTML = `#sloader-overlay {
 #sloader-select {
   margin: 5px;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background-color: white;
+  color: black;
 }
 
 #sloader-download {
@@ -48,6 +50,7 @@ sloader_style.innerHTML = `#sloader-overlay {
   padding: 5px;
   border: none;
   border-radius: 5px;
+  color: black;
 }
 
 #sloader-download:hover {
@@ -62,7 +65,14 @@ sloader_style.innerHTML = `#sloader-overlay {
   font-size: 1.5em;
   margin: 5px;
   text-align: center;
-}`;
+  color: black;
+}
+
+.sloader-option {
+  background-color: white;
+  color: black;
+}
+`;
 document.getElementsByTagName("head")[0].appendChild(sloader_style);
 // Load UI
 var htmlUI = `
