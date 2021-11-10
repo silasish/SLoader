@@ -51,6 +51,7 @@ sloader_style.innerHTML = `#sloader-overlay {
   border: none;
   border-radius: 5px;
   color: black;
+  background-color: #AAA;
 }
 
 #sloader-download:hover {
