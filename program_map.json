@@ -7,6 +7,10 @@
 		{
 			"name": "AutoClicker",
 			"url": "https://raw.githubusercontent.com/Silasssssss/bookmark-autoclicker/main/autoclicker.js"
+		},
+		{
+			"name": "Snake Mod Menu",
+			"url": "https://raw.githubusercontent.com/Silasssssss/SLoader/main/snakemod.js"
 		}
 	]
 }
