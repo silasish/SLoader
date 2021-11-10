@@ -89,7 +89,7 @@ var htmlUI = `
 </div>
 `
 // Append UI
-document.body.innerHTML += htmlUI;
+document.body.insertAdjacentHTML('beforeend', htmlUI);
 var mainUIElement = document.getElementById("sloader-overlay")
 var selectElement = document.getElementById("sloader-select")
 var downloadElement = document.getElementById("sloader-download")
