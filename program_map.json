@@ -1,14 +1,12 @@
 {
-  "programs": [
+	"programs": [
     {
-      "inspector": {
-        "name": "Inspector",
-        "url": "https://raw.githubusercontent.com/Silasssssss/Inspector/main/inspect.js"
-      },
-      "autoclicker": {
-        "name": "AutoClicker",
-        "url": "https://raw.githubusercontent.com/Silasssssss/bookmark-autoclicker/main/autoclicker.js"
-      }
-    }
-  ]
+			"name": "Inspector",
+			"url": "https://raw.githubusercontent.com/Silasssssss/Inspector/main/inspect.js"
+		},
+		{
+			"name": "AutoClicker",
+			"url": "https://raw.githubusercontent.com/Silasssssss/bookmark-autoclicker/main/autoclicker.js"
+		}
+	]
 }
