@@ -9,12 +9,8 @@
 			"url": "https://raw.githubusercontent.com/Silasssssss/bookmark-autoclicker/main/autoclicker.js"
 		},
 		{
-			"name": "Snake Mod Menu",
-			"url": "https://raw.githubusercontent.com/Silasssssss/SLoader/main/snakemod.js"
-		},
-		{
-			"name": "Snake Dark Mode",
-			"url": "https://raw.githubusercontent.com/Silasssssss/SLoader/main/snakedarkmode.js"
+			"name": "SnakeLoader",
+			"url": "https://raw.githubusercontent.com/SilasCorp/SnakeLoader/main/snakeloader.js"
 		}
 	]
 }
