@@ -11,6 +11,10 @@
 		{
 			"name": "SnakeLoader",
 			"url": "https://raw.githubusercontent.com/SilasCorp/SnakeLoader/main/snakeloader.js"
+		},
+		{
+			"name": "Classroom Dark Mode",
+			"url": "https://raw.githubusercontent.com/SilasCorp/GoogleClassroomDarkener/main/dark.js"
 		}
 	]
 }
