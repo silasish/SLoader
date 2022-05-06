@@ -1,28 +1,28 @@
 {
 	"programs": [
-    {
-			"name": "Inspector",
-			"url": "https://raw.githubusercontent.com/Silasssssss/Inspector/main/inspect.js"
+		{
+			"name": "Asteroids",
+			"url": "https://raw.githubusercontent.com/Silasssssss/SLoader/main/asteroids.js"
 		},
 		{
 			"name": "AutoClicker",
 			"url": "https://raw.githubusercontent.com/Silasssssss/bookmark-autoclicker/main/autoclicker.js"
 		},
 		{
-			"name": "SnakeLoader",
-			"url": "https://raw.githubusercontent.com/SilasCorp/SnakeLoader/main/snakeloader.js"
-		},
-		{
 			"name": "Classroom Dark Mode",
 			"url": "https://raw.githubusercontent.com/SilasCorp/GoogleClassroomDarkener/main/dark.js"
 		},
-		{
-			"name": "Asteroids",
-			"url": "http://www.websiteasteroids.com/asteroids.min.js"
+    		{
+			"name": "Inspector",
+			"url": "https://raw.githubusercontent.com/Silasssssss/Inspector/main/inspect.js"
 		},
 		{
 			"name": "Snake Game",
 			"url": "https://raw.githubusercontent.com/Silasssssss/SLoader/main/snakegame.js"
+		},
+		{
+			"name": "SnakeLoader",
+			"url": "https://raw.githubusercontent.com/SilasCorp/SnakeLoader/main/snakeloader.js"
 		}
 	]
 }
