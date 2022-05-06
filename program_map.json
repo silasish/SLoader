@@ -15,6 +15,14 @@
 		{
 			"name": "Classroom Dark Mode",
 			"url": "https://raw.githubusercontent.com/SilasCorp/GoogleClassroomDarkener/main/dark.js"
+		},
+		{
+			"name": "Asteroids",
+			"url": "http://www.websiteasteroids.com/asteroids.min.js"
+		},
+		{
+			"name": "Snake Game",
+			"url": "https://raw.githubusercontent.com/Silasssssss/SLoader/main/snakegame.js"
 		}
 	]
 }
